@@ -2,5 +2,8 @@
 name = "wcwidth"
 version = "0.0.1"
 authors = ["Guanqun Lu <guanqun.lu@gmail.com>"]
+license = "MIT"
+description = "the port of python wcwidth library"
+repository = "https://github.com/guanqun/wcwidth"
 
 [dependencies]
