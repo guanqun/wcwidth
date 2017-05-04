@@ -1,0 +1,6 @@
+[package]
+name = "wcwidth"
+version = "0.0.1"
+authors = ["Guanqun Lu <guanqun.lu@gmail.com>"]
+
+[dependencies]
